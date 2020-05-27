@@ -5,5 +5,5 @@
 
 # 如何使用
 1. 在release页面下载并解压
-2. 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane (不同版本位置有所不同)
+2. 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
 3. 重启游戏 享受未和谐的立绘吧！
