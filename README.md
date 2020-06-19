@@ -4,12 +4,16 @@
 - 每次更新后都要重新替换反和谐文件。若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
 
 - GH为碧蓝光环版资源(光环版游戏使用原版资源可能会导致立绘崩塌)
+
+- Preview为反和谐预览图
 # 如何使用
 1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
 2. 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志
+20年6月19日修复欧根亲王皮肤-「永不褪色的笑容」誓约界面显示错误；优化个别文件大小
+
 20年6月7日更新大凤皮肤-「毒苹果」live2d动作 (光环未实装)
 
 20年6月4日优化明尼阿波利斯婚纱-「Trapper white」反和谐
