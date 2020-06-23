@@ -1,5 +1,3 @@
-# ☆☆☆
- 有大佬会拆光环的反和谐apk包请[联系我](https://message.bilibili.com/#/whisper/mid3738000)
 # 碧蓝航线反和谐
 - 每次更新后都要重新替换反和谐文件。若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
 
