@@ -4,6 +4,8 @@
 - GH为碧蓝光环版资源(光环版游戏使用原版资源可能会导致立绘崩塌)
 
 - Preview为反和谐预览图
+
+- 会破解签名校验的大佬请[联系我](https://message.bilibili.com/#whisper/mid3738000)
 # 如何使用
 1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
 2. 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
