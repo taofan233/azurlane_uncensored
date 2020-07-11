@@ -4,14 +4,14 @@
 - GH为碧蓝光环版资源(光环版游戏使用原版资源可能会导致立绘崩塌)
 
 - Preview为反和谐预览图
-
-- 会破解签名校验的大佬请[联系我](https://message.bilibili.com/#whisper/mid3738000)
 # 如何使用
 1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
 2. 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志
+20年7月9日光环客户端更新，修复以往的所有问题 新增大凤皮肤-「恋慕伴侣」船坞头像反和谐
+
 20年7月9日光环客户端更新 修复以往的所有问题 本补丁后续依旧会更新
 
 20年7月2日修复大凤皮肤-「恋慕伴侣」反和谐
