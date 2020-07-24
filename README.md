@@ -7,10 +7,10 @@
 
 - Preview为反和谐预览图
 # 如何使用
-1 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
-2 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane (不同版本位置有所不同)
-2.5 光环版复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
-3 重启游戏 享受未和谐的立绘吧！
+1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
+2. 复制AssetBundles文件夹到Android/data/com.bilibili.azurlane (不同版本位置有所不同)
+3. 光环版复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
+4. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志 (光环版更新日志详见压缩包内文档)
 20年7月23日新增鹰皮肤-「实习医生伊格」反和谐，修复欧根亲王皮肤-「永不褪色的笑容」动态小人
