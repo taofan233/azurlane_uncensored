@@ -1,18 +1,19 @@
 # 碧蓝航线反和谐
 - 请勿公开分享，仅供个人学习交流！
 
-- 每次更新后都要重新替换反和谐文件。若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
-
-- GH为碧蓝光环版资源(光环版游戏使用原版资源可能会导致立绘崩塌)
+- 每次更新后都要重新替换反和谐文件 若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
 
 - Preview为反和谐预览图
+
+- 停止对光环版立绘反和谐的更新
 # 如何使用
 1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
 2. 复制files文件夹到Android/data/com.bilibili.azurlane (不同版本位置有所不同)
-3. 光环版复制AssetBundles文件夹到Android/data/com.bilibili.azurlane/files (不同版本位置有所不同)
-4. 重启游戏 享受未和谐的立绘吧！
+3. 重启游戏 享受未和谐的立绘吧！
 
-# 更新日志 (光环版更新日志详见压缩包内文档)
+# 更新日志
+20年9月4日修复大潮皮肤-「驯鹿与圣诞礼物」表情差分反和谐
+
 20年7月23日新增鹰皮肤-「实习医生伊格」反和谐，修复欧根亲王皮肤-「永不褪色的笑容」动态小人
 
 20年7月22日修复印第安纳波利斯立绘显示错误，修复扎拉皮肤-「泳池边的“偶遇”」live2d的问题
