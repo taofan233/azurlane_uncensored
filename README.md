@@ -11,7 +11,7 @@
 2. 复制files文件夹到Android/data/com.bilibili.azurlane (不同版本位置有所不同)
 3. 重启游戏 享受未和谐的立绘吧！
 
-# 更新日志
+# 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
 20年9月5日精简立绘文件
 
 20年9月4日修复大潮皮肤-「驯鹿与圣诞礼物」表情差分反和谐
