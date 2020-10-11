@@ -12,6 +12,8 @@
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+20年10月11日更新絮库夫皮肤-「Loisirs baln é aires」反和谐，新增l2d反和谐
+
 20年9月17日新增千岁皮肤-「夏阳璀璨之日」、伊卡洛斯皮肤-「海底探险摄影会」、絮库夫皮肤-「Loisirs baln é aires」、樫野皮肤-「温泉放松时间」立绘反和谐，新增絮库夫皮肤-「Loisirs baln é aires」、樫野皮肤-「温泉放松时间」l2d反和谐
 
 20年9月5日精简立绘文件
