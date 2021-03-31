@@ -12,6 +12,8 @@
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+21年3月31日新增萨福克船坞头像反和谐
+
 21年3月29日修复萨福克和测试者反和谐文件失效的问题
 
 20年10月11日更新絮库夫皮肤-「Loisirs baln é aires」反和谐，新增l2d反和谐
