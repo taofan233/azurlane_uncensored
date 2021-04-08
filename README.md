@@ -12,6 +12,8 @@
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+21年4月8日新增邦克山皮肤-「纵情假日」、阿斯托利亚-「黑兔嘉年华」立绘反和谐。若使用补丁出现萨福克立绘错误的情况请删除painting文件夹下safuke文件即可修复
+
 21年3月31日新增萨福克船坞头像反和谐
 
 21年3月29日修复萨福克和测试者反和谐文件失效的问题
