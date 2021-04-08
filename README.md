@@ -4,8 +4,6 @@
 - 每次更新后都要重新替换反和谐文件 若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
 
 - Preview为反和谐预览图
-
-- 停止对光环版立绘反和谐的更新
 # 如何使用
 1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
 2. 复制files文件夹到Android/data/com.bilibili.azurlane (不同版本位置有所不同)
