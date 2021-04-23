@@ -10,6 +10,8 @@
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+21年4月23日新增天鹰技能图标反和谐，修复天鹰立绘表情差分的错误
+
 因为这次和谐皮肤质量较高，群友希望使用和谐版皮肤的呼声较高，所以制作了皮肤和谐补丁 [[凯撒](https://files.catbox.moe/6h53jm.rar)   [天鹰](https://files.catbox.moe/h6tmgu.rar)]  
 使用方法:解压并替换文件到Android/data/com.bilibili.azurlane/files 卸载方法:点击游戏内的资源修复 
 
