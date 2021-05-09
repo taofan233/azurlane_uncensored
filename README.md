@@ -9,13 +9,15 @@
 2. 复制files文件夹到Android/data/com.bilibili.azurlane(不同版本位置有所不同)
 3. 重启游戏 享受未和谐的立绘吧！
 
+# 扩展
+[凯撒和谐版](https://files.catbox.moe/6h53jm.rar)    [天鹰和谐版](https://files.catbox.moe/h6tmgu.rar)    [维内托旧版](https://files.catbox.moe/7vlk42.rar)  
+使用方法:解压并替换文件到Android/data/com.bilibili.azurlane/files      
+卸载方法:点击游戏内的资源修复 
+
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
 21年5月6日新增绫波皮肤-「微速战斗姿态」立绘反和谐
 
 21年4月23日新增天鹰技能图标反和谐，修复天鹰立绘表情差分的错误
-
-因为这次和谐皮肤质量较高，群友希望使用和谐版皮肤的呼声较高，所以制作了皮肤和谐补丁 [[凯撒](https://files.catbox.moe/6h53jm.rar)   [天鹰](https://files.catbox.moe/h6tmgu.rar)]  
-使用方法:解压并替换文件到Android/data/com.bilibili.azurlane/files 卸载方法:点击游戏内的资源修复 
 
 21年4月22日新增天鹰立绘、天鹰皮肤-「阳光与浅潮的假日」、阿布鲁齐公爵立绘、阿布鲁齐公爵皮肤-「漆黑的人鱼公主」、西北风皮肤-「独处的沙滩一角」、朱利奥·凯撒皮肤-「阳光下的Alta marea」、尼科洛索·达雷科皮肤-「出航前的余兴」、加富尔伯爵皮肤-「激战的盛夏沙滩」、托里拆利立绘、维托里奥·维内托立绘反和谐
 
