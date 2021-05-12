@@ -3,6 +3,10 @@
 
 - 每次更新后都要重新替换反和谐文件 若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
 
+- Uncensored为原版反和谐(游戏在线更新不需要重新安装)
+
+- Uncensored Plus为添加部分立绘废案反和谐 例如:大凤皮肤-「恋慕伴侣」
+
 - Preview为反和谐预览图
 # 如何使用
 1. 在[release 页面](https://github.com/taofan233/azurlane_uncensored/releases)下载并解压
@@ -15,6 +19,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+21年5月12日新增原版立绘反和谐
+
 21年5月6日新增绫波皮肤-「微速战斗姿态」立绘反和谐
 
 21年4月23日新增天鹰技能图标反和谐，修复天鹰立绘表情差分的错误
