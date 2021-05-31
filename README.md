@@ -14,7 +14,7 @@
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 扩展
-[凯撒和谐版](https://files.catbox.moe/6h53jm.rar)    [天鹰和谐版](https://files.catbox.moe/h6tmgu.rar)    [维内托旧版V2](https://files.catbox.moe/z7127b.rar)  
+[凯撒和谐版](https://files.catbox.moe/6h53jm.rar)    [天鹰和谐版](https://files.catbox.moe/h6tmgu.rar)    [维内托旧版V2](https://files.catbox.moe/z7127b.rar)  [新泽西皮肤和谐版]( https://files.catbox.moe/siop8c.rar)     
 使用方法:解压并替换文件到Android/data/com.bilibili.azurlane/files      
 卸载方法:点击游戏内的资源修复 
 
