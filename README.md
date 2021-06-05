@@ -19,6 +19,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+21年6月4日新增长波皮肤-「安心的“长波”」sd小人废案
+
 21年5月27日新增提康德罗加皮肤-「黑兔的舞台秀」、射水鱼皮肤-「兔兔特调」、旧金山皮肤-「Funny Bunny！」、新泽西皮肤-「跃动的舞台时间！」立绘反和谐；新增艾伦·萨姆纳皮肤-「Charming Rabbit」立绘废案，l2d废案和sd小人废案
 
 21年5月6日新增绫波皮肤-「微速战斗姿态」立绘废案
