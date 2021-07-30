@@ -1,7 +1,7 @@
 # 碧蓝航线反和谐
 - 请勿公开分享，仅供个人学习交流！
 
-- 每次更新后都要重新替换反和谐文件 若反和谐文件出现问题或遗漏请[私信](https://message.bilibili.com/#whisper/mid694189)
+- 每次更新后都要重新替换反和谐文件 若反和谐文件出现问题或遗漏以及未收录的废案请[私信](https://message.bilibili.com/#whisper/mid694189)
 
 - Uncensored为原版反和谐(游戏在线更新不需要重新安装)
 
