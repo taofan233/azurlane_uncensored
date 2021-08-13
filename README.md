@@ -19,7 +19,7 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
-21年8月12日新增北卡罗来纳皮肤-「秘密的换装练习？」、艾伦·萨姆纳皮肤-「Charming Rabbit」船坞头像反和谐；更新絮库夫皮肤-「Loisirs baln é aires」立绘废案和l2d废案
+21年8月13日新增北卡罗来纳皮肤-「秘密的换装练习？」、艾伦·萨姆纳皮肤-「Charming Rabbit」船坞头像反和谐；更新絮库夫皮肤-「Loisirs baln é aires」立绘废案和l2d废案
 
 21年8月12日新增皇家方舟皮肤-「纯白的守护者」船坞头像废案，圣女贞德皮肤-「海之圣女」船坞头像废案；新增里诺皮肤-「bunny·reno!」、北卡罗来纳皮肤-「秘密的换装练习？」立绘、l2d反和谐，新增北卡罗来纳皮肤-「秘密的换装练习？」获取动画反和谐
 
