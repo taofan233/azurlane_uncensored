@@ -19,6 +19,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+21年9月7日新增皇家方舟改立绘废案、船坞头像废案
+
 21年8月19日新增阿贝克隆比皮肤-「坏坏兔的恶作剧！」立绘、l2d、获取动画反和谐
 
 21年8月13日新增北卡罗来纳皮肤-「秘密的换装练习？」、艾伦·萨姆纳皮肤-「Charming Rabbit」船坞头像反和谐；更新絮库夫皮肤-「Loisirs baln é aires」立绘废案和l2d废案
