@@ -16,8 +16,6 @@
 # 扩展
 [凯撒和谐版](https://files.catbox.moe/6h53jm.rar)    [天鹰和谐版](https://files.catbox.moe/h6tmgu.rar)    [维内托旧版V2](https://files.catbox.moe/z7127b.rar)  [新泽西皮肤和谐版V2]( https://files.catbox.moe/kiol7g.rar)     
 使用方法:解压并替换文件到Android/data/com.bilibili.azurlane/files  
-[柴郡去裙子](https://files.catbox.moe/atr3bp.rar)    [恶毒去黄鸡](https://files.catbox.moe/1oz8sk.rar)   
-使用方法:解压并替换文件到/Android/data/com.bilibili.azurlane/files/AssetBundles/ live2d   
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
