@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+22年4月10日新增圣女贞德皮肤-「海之圣女」立绘废案和船坞头像废案
+
 22年4月8日大版本更新，反和谐已更新
 
 22年4月5日新增鹦鹉螺立绘、船坞头像、sd小人废案
