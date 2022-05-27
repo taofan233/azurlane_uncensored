@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+22年5月27日修复矶风皮肤-「新年合战」、贝奇皮肤-「华丽的速度之星」、扎拉皮肤-「泳池边的“偶遇”」、足柄表情差分的错误
+
 22年4月10日新增圣女贞德皮肤-「海之圣女」立绘废案和船坞头像废案
 
 22年4月8日大版本更新，反和谐已更新
