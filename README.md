@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+22年12月29日新增伊吹皮肤-「恬静无为」立绘废案
+
 22年10月1日新增布雷斯特sd小人废案
 
 22年9月27日修复柴郡皮肤-「冰雪公主」l2d嘴巴不动的bug
