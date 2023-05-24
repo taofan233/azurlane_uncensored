@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+23年5月23日新增布吕歇尔皮肤-「急转直下的Fallinlove」立绘废案
+
 23年4月1日新增誓约之戒、比翼双飞图标废案
 
 23年2月28日新增圣女贞德皮肤-「海之圣女」、扎拉皮肤-「泳池边的“偶遇”」、皇家方舟婚纱-「纯白的守护者」、皇家方舟改sd小人废案
