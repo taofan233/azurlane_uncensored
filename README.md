@@ -21,6 +21,18 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+23年6月29日已确认sd小人文件替换会导致队伍无法正常过图的问题，如有该问题请删除char文件夹下的以下补丁文件
+char/ailunsamuna_2
+char/buleisite
+char/changbo_3
+char/huangjiafangzhou_g
+char/huangjiafangzhou_h
+char/ougen_2
+char/shengnvzhende_2
+char/tianying
+char/yingwuluo
+char/zhala_2
+
 23年5月23日新增布吕歇尔皮肤-「急转直下的Fallinlove」立绘废案
 
 23年4月1日新增誓约之戒、比翼双飞图标废案
