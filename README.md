@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+23年8月22日新增飞鸟川千濑皮肤-「洗衣房时光」sd小人废案
+
 23年7月20日新增飞鸟川千濑皮肤-「洗衣房时光」立绘废案
 
 23年6月30日大版本更新，sd小人废案已更新。因清晰度问题删除布雷斯特sd小人废案，因技术问题删除长波皮肤-「安心的“长波”」sd小人废案，之前使用过补丁的请自行删除char/buleisite和char/changbo_3
