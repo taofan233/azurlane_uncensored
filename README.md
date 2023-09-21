@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+23年9月21日新增库尔斯克皮肤-「雾中雪狼」立绘废案和l2d废案
+
 23年8月22日新增飞鸟川千濑皮肤-「洗衣房时光」sd小人废案
 
 23年7月20日新增飞鸟川千濑皮肤-「洗衣房时光」立绘废案
