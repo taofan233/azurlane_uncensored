@@ -21,6 +21,8 @@
 卸载方法:点击游戏内的资源修复 
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+24年9月5日大版本更新，更新鹦鹉螺sd小人废案，更新天鹰技能图标废案，更新埃米尔·贝尔汀改、布吕歇尔皮肤-「急转直下的Fallinlove」立绘废案，更新絮库夫皮肤-「Loisirs baln é aires」、艾伦·萨姆纳皮肤-「Charming Rabbit」、扎拉皮肤-「泳池边的“偶遇”」l2d废案，新增信浓皮肤-「白沙幽梦」l2d废案，新增絮库夫皮肤-「Loisirs baln é aires」获取动画反和谐；因废案补丁效果不理想，删除库尔斯克皮肤-「雾中雪狼」立绘废案和l2d废案
+
 23年9月21日新增库尔斯克皮肤-「雾中雪狼」立绘废案和l2d废案
 
 23年8月22日新增飞鸟川千濑皮肤-「洗衣房时光」sd小人废案
