@@ -15,11 +15,6 @@
 2. 复制files文件夹到Android/data/com.bilibili.azurlane(不同版本位置有所不同)
 3. 重启游戏 享受未和谐的立绘吧！
 
-# 扩展
-[凯撒和谐版](https://files.catbox.moe/6h53jm.rar)    [天鹰和谐版](https://files.catbox.moe/h6tmgu.rar)    [维内托旧版V2](https://files.catbox.moe/z7127b.rar)  [新泽西皮肤和谐版V2]( https://files.catbox.moe/kiol7g.rar)     
-使用方法:解压并替换文件到Android/data/com.bilibili.azurlane/files  
-卸载方法:点击游戏内的资源修复 
-
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
 25年5月8日大版本更新，废案补丁全部更新
 
