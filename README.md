@@ -16,6 +16,8 @@
 3. 重启游戏 享受未和谐的立绘吧！
 
 # 更新日志![GitHub All Releases](https://img.shields.io/github/downloads/taofan233/azurlane_uncensored/total)
+25年6月26日新增U-37皮肤-「公路维和组，出击！」立绘废案
+
 25年5月20日优化了信浓皮肤-「白沙幽梦」l2d废案压缩方式，缩短了l2d皮肤的加载时间，但相应文件体积会稍大一点
 
 25年5月8日大版本更新，废案补丁全部更新
